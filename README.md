@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👨‍💻 Heitor Moura Rosi
+**`Estudante de Informática para a Internet no Ifes Campus Serra (5/6) e entusiasta de segurança da informação`**
 
-<!--
-**heitormrosi/heitormrosi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Cartões iniciais do README.md com linguagens mais usadas e dados do perfil. -->
+### 📊 Estatística
+<div>
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=heitormrosi&custom_title=Status%20do%20Github%20de%20HeitorMRosi&show_icons=true&rank_icon=github"
+  />
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitormrosi&layout=donut&custom_title=Linguagens%20mais%20utilizadas"
+  />
+</div>
