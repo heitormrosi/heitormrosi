@@ -1,12 +1,22 @@
 ## 👨‍💻 Heitor Moura Rosi
-**`Estudante de curso técnico em Informática para a Internet no Ifes Campus Serra (5/6) e entusiasta de segurança da informação`**
+**`Estudante de curso técnico em Informática para a Internet no Ifes Campus Serra (6/6) e entusiasta de cibersegurança e de desenvolvimento web`**
 
 ### 🗿 Sobre mim
+📚 Preparando-me para certificação LPI Linux Essentials e CompTIA Project+
 🎶 Estudante de música, com foco em violão erudito <br />
-🏅 Medalhista olímpico em matemática e física (OBMEP, OBFEP, Canguru...) <br />
+🏅 Medalhista olímpico em matemática, física e finanças (OBMEP, OBFEP, Canguru, OLITEF, OBMF...) <br />
 📖 Apaixonado por filosofia e ciência do aprendizado <br />
-🎮 Gamer (Minecraft, Stardew Valley, Mindustry...)
+🎮 Gamer (Minecraft, Stardew Valley, Mindustry...) <br />
+🏭 Presença anual nas conferências BSides Vitória e ESX
 
+<!-- 
+  No futuro, pretendo adicionar o Lattes, o currículo, criar um portfólio e atualizar o modelo de 
+  descrição de GitHub, pois acho que está faltando muitas informações cruciais aqui...
+  Enfim, só estudo. ;-;
+  Ah, e buscar alguns projetos para executar na comunidade.
+  Por enquanto, só repositório de implementação de livros para me livrar da síndrome do impostor. ;-;
+  Depois do LPI Linux Essentials, vou para o Cisco CCST, porque OS + NETWORKING = base pro resto.
+-->
 ### 🤖 Linguagens & Tecnologias
 <div>
   <img 
@@ -64,21 +74,5 @@
   <img 
     height="50em"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" 
-  />
-</div>
-
-
-
-
-<!-- Cartões iniciais do README.md com linguagens mais usadas e dados do perfil. -->
-### 📊 Estatísticas
-<div>
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=heitormrosi&custom_title=Status%20do%20Github%20de%20HeitorMRosi&show_icons=true&rank_icon=github&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitormrosi&layout=compact&custom_title=Linguagens%20mais%20utilizadas&locale=pt-br"
   />
 </div>
