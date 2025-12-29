@@ -2,7 +2,7 @@
 **`Estudante de curso técnico em Informática para a Internet no Ifes Campus Serra (6/6) e entusiasta de cibersegurança e de desenvolvimento web`**
 
 ### 🗿 Sobre mim
-📚 Preparando-me para certificação LPI Linux Essentials e CompTIA Project+
+📚 Preparando-me para certificação LPI Linux Essentials e CompTIA Project+ <br />
 🎶 Estudante de música, com foco em violão erudito <br />
 🏅 Medalhista olímpico em matemática, física e finanças (OBMEP, OBFEP, Canguru, OLITEF, OBMF...) <br />
 📖 Apaixonado por filosofia e ciência do aprendizado <br />
