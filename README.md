@@ -1,5 +1,5 @@
 ## 👨‍💻 Heitor Moura Rosi
-**`Estudante de curso técnico em Informática para a Internet no Ifes Campus Serra (6/6) e entusiasta de cibersegurança e de desenvolvimento web`**
+**`Estudante de curso técnico em Informática para a Internet no Ifes Campus Serra (6/6), calouro de Engenharia Elétrica na UFES Campus Goiabeiras e entusiasta de cibersegurança e de desenvolvimento web`**
 
 ### 🗿 Sobre mim
 📚 Preparando-me para certificação LPIC-1 e CompTIA Project+ <br />
