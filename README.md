@@ -1,5 +1,5 @@
 # 👨‍💻 Heitor Moura Rosi
-**`Informática para a Internet - Ifes (6/6)`** <br />
+**`Informática para a Internet - Ifes`** <br />
 **`Engenharia Elétrica - UFES (0/10)`** <br />
 **`Entusiasta de cibersegurança e de desenvolvimento web`**
 
